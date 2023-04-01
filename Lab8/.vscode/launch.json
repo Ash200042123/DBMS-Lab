@@ -1,0 +1,22 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch practice",
+            "request": "launch",
+            "mainClass": "practice",
+            "projectName": "Lab8_60a640e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch lab8",
+            "request": "launch",
+            "mainClass": "lab8",
+            "projectName": "Lab8_60a640e4"
+        }
+    ]
+}

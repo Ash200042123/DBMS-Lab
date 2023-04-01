@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "ojdbc14.jar"
+    ],
+    "files.associations": {
+        "xstring": "cpp"
+    }
+}

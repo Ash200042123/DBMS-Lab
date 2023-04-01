@@ -1,0 +1,3 @@
+There are a total of 2 possible CKs. They are given below:
+CK1: ABD
+CK2: ABCD
